@@ -22,12 +22,12 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![image](https://user-images.githubusercontent.com/98140422/153044697-eae8c849-9c19-4b25-99b7-b56a3d52d0f9.png)
 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: https://siddhantvats05.github.io/Stats-Preview-Card-Component/
 
 ## My process
 
